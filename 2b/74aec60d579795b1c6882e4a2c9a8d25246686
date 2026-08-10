@@ -1,0 +1,38 @@
+trinity/trainer/verl/trainer.py
+  s_9b424050b90a18::t_9adf2a4df2a6f2 302
+  s_9b424050b90a18::t_51b4083d1c195f 301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "2b74aec60d579795b1c6882e4a2c9a8d25246686",
+  "prompts": {},
+  "humans": {
+    "h_476da9f7b4d6db": {
+      "author": "huajinguo12 <jghua1998@163.com>"
+    }
+  },
+  "sessions": {
+    "s_9b424050b90a18": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a79af1eccc26fa8665527cf",
+        "model": "glm-5.2"
+      },
+      "human_author": "huajinguo12 <jghua1998@163.com>",
+      "custom_attributes": {
+        "source_scene": "agent",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "tool_type": "builtin",
+        "edit_kind": "file_edit",
+        "tool_use_id": "6a79c1fbccc26fa8665528a6",
+        "runtime_client": "trae-tob-git-ai",
+        "operation_id": "6a79c1fbccc26fa8665528a6",
+        "session_id": "6a79af1eccc26fa8665527cf",
+        "client_type": "ide",
+        "external_session_id": "6a79af1eccc26fa8665527cf",
+        "dedupe_key": "6a79af1eccc26fa8665527cf:6a79c1fbccc26fa8665528a6:afterEdit:97ccf284"
+      }
+    }
+  }
+}
