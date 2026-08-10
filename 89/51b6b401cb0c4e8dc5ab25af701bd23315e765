@@ -1,0 +1,32 @@
+trinity/trainer/verl/trainer.py
+  s_9b424050b90a18::t_9adf2a4df2a6f2 302
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "8951b6b401cb0c4e8dc5ab25af701bd23315e765",
+  "prompts": {},
+  "sessions": {
+    "s_9b424050b90a18": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a79af1eccc26fa8665527cf",
+        "model": "glm-5.2"
+      },
+      "human_author": "huajinguo12 <jghua1998@163.com>",
+      "custom_attributes": {
+        "edit_kind": "file_edit",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "operation_id": "6a79c1fbccc26fa8665528a6",
+        "client_type": "ide",
+        "tool_use_id": "6a79c1fbccc26fa8665528a6",
+        "dedupe_key": "6a79af1eccc26fa8665527cf:6a79c1fbccc26fa8665528a6:afterEdit:97ccf284",
+        "tool_type": "builtin",
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "agent",
+        "external_session_id": "6a79af1eccc26fa8665527cf",
+        "session_id": "6a79af1eccc26fa8665527cf"
+      }
+    }
+  }
+}
